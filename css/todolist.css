@@ -25,6 +25,7 @@ h1 {
 
 .container {
   width: 400px;
+  padding: 30px;
 }
 
 form {
