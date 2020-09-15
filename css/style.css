@@ -347,7 +347,7 @@ header a {
   flex-direction: column;
   align-items: center;
   min-height: 100vh;
-  background: url('./assets/bg-prune.svg');
+  background: url('../assets/img/bg-prune.svg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
