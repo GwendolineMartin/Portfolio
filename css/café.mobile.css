@@ -1,0 +1,62 @@
+/* header */
+
+.header nav h1 {
+	float: none;
+	text-align: center;
+}
+
+.header nav ul {
+	float: none;
+}
+
+.header nav ul li {
+	float: none;
+}
+
+.header nav ul li a {
+	padding: 10px;
+	text-align: center;
+}
+
+.header nav ul li a:hover,
+.active {
+	background: lightcoral;
+	border: none;
+}
+
+/* vp */
+
+.vp-content {
+	padding-top: auto;
+}
+.vp-content h1 {
+	font-size: 2rem;
+}
+.feature {
+	float: none;
+	width: 100%;
+	margin-bottom: 2rem;
+}
+/* where */
+.where {
+	padding: 80px 20px;
+	overflow: auto;
+	min-height: 100vh;
+}
+
+.where-img {
+	float: none;
+	width: 80%;
+	margin: auto;
+	display: block;
+	border-radius: 5px;
+	margin-bottom: 3rem;
+}
+.where-text {
+	float: none;
+	width: 100%;
+}
+/* contact */
+.contact {
+	padding: 30px auto;
+}
