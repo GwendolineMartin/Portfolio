@@ -154,6 +154,7 @@ header a {
   justify-content: center;
   max-width: 700px;
   line-height: 30px;
+  padding: 0 20px;
 }
 #projet {
   display: flex;
